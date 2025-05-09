@@ -31,4 +31,4 @@ Sam Nahutdo - Solo Presenter
 
 
 
-Purpose of it is to save time from learning in cmd scripting instead it only click one number to run the program.
+Purpose of this is to save time from learning in cmd scripting instead it only click one number to run the program.
