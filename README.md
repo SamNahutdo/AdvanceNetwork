@@ -2,6 +2,10 @@
 
 ***FINAL PROJECT PT101***
 
+Member
+
+Sam Nahutdo - Solo Presenter
+
 1  Show IP Configuration - SHOW IPCONFIG
 
 2  Flush DNS and Renew IP - SHOWS ALL IPCONFIG/ RENEW
