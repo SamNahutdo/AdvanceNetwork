@@ -24,4 +24,4 @@
 
 
 
-Purpose of it is to save thime from learning in cmd, and it only click one number to run the program.
+Purpose of it is to save time from learning in cmd scripting instead it only click one number to run the program.
